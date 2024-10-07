@@ -6,4 +6,5 @@
  *
  */
 module TPA_Exemplos {
+	requires java.desktop;
 }
