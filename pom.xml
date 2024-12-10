@@ -31,5 +31,57 @@
     <artifactId>javafaker</artifactId>
   <version>1.0.2</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-api -->
+<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-3d</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-3d-demos</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-algorithms</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-api</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-graph-impl</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-io</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-jai</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-jai-samples</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-samples</artifactId>
+		    <version>2.0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>net.sf.jung</groupId>
+		    <artifactId>jung-visualization</artifactId>
+		    <version>2.0.1</version>
+		</dependency> 
   </dependencies>
 </project>
